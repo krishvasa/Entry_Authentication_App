@@ -1,0 +1,8 @@
+# Keep Flutter platform scaffolding out of GitHub language statistics.
+android/** -linguist-detectable
+ios/** -linguist-detectable
+linux/** -linguist-detectable
+macos/** -linguist-detectable
+web/** -linguist-detectable
+windows/** -linguist-detectable
+tempCodeRunnerFile.* -linguist-detectable
